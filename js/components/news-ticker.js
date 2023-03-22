@@ -16,6 +16,7 @@ Vue.component("news-ticker", {
                 "\"Imagine quoting your name on your news ticker\" - ???",
                 "\"if you hit a wall, keep hitting\" -winston churchill",
                 "Die, frickin pie - PewDiePie",
+                "Totally New News Tickers... or maybe not",
                 `<span style="color: hsl(0, 100%, 50%)">R</span>`
                 +` <span style="color: hsl(45, 100%, 50%)">A</span>`
                 +` <span style="color: hsl(90, 100%, 50%)">I</span>`
